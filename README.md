@@ -54,5 +54,12 @@ You can run and access the project locally using the following link:
 (Note: This link works only on your local machine when the project folder is properly hosted on a local server such as XAMPP.)
 
 --> Screenshots <--
-<img width="1864" height="947" alt="Screenshot 2025-11-14 214737" src="https://github.com/user-attachments/assets/488e4026-8032-4938-a494-3595d19a3127" />
+<img width="1868" height="961" alt="Screenshot 2025-11-14 214610" src="https://github.com/user-attachments/assets/039a0dd3-4931-4042-a0d6-553de71350f4" />
 
+<img width="1857" height="955" alt="Screenshot 2025-11-14 214628" src="https://github.com/user-attachments/assets/351b078c-be2c-48bd-a733-a5fd945becc0" />
+
+<img width="1861" height="950" alt="Screenshot 2025-11-14 214643" src="https://github.com/user-attachments/assets/67267787-ff21-4518-adf4-08ac33886cae" />
+
+<img width="1864" height="947" alt="Screenshot 2025-11-14 214737" src="https://github.com/user-attachments/assets/a10761be-13d8-428f-a9a0-cbc2ba28560a" />
+
+<img width="1863" height="922" alt="Screenshot 2025-11-14 214753" src="https://github.com/user-attachments/assets/82288a8c-c545-4889-bd9d-0a51d701b663" />
